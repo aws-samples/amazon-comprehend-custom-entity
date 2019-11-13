@@ -6,10 +6,10 @@ https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-u
 Notebooks:
 - 1-AWS-Comprehend-Custom-Entities.ipynb
 - 2-BlazingText-Word2Vec-Telco-tweents.ipynb
-- 3-AWS-Comprehend-Negative-Intent-Recognizer.ipynb
+- 3-AWS-Comprehend-Negative-Custom-Classifier.ipynb
 
 First Notebook shows you how to train a custom entity recognizer from a list of smartphone devices.
 <br /><br />
 Second Notebook shows you how to train a Word2Vec model using the twitter dataset.
 <br /><br />
-Third Notebook leverages the keywords generated from the second notebook to create a negative intent recognizer.
+Third Notebook leverages the keywords generated from the second notebook to create a negative custom classifier.
