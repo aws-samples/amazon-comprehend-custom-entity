@@ -12,4 +12,4 @@ First Notebook shows you how to train a custom entity recognizer from a list of 
 <br /><br />
 Second Notebook shows you how to train a Word2Vec model using the twitter dataset.
 <br /><br />
-Third Notebook leverages the keywords generated from the second notebook to create a negative custom classifier.
+Third Notebook leverages the keywords generated from the second notebook to create a custom sentiment classifier.
